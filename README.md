@@ -46,3 +46,11 @@ Built with **Python** and **Tkinter**, SkillMatcher provides a clean, tabbed use
    ```bash
    pip install PyPDF2 python-docx
 
+---
+
+## 📋 License
+
+This project was developed for educational purposes only as part of a university course project.  
+All rights reserved by the authors: Chelsea Bonyata, Stephanie Castro, Renzo Landicho, and Amber Claudio.  
+No commercial use is permitted without explicit permission.
+
